@@ -4,7 +4,7 @@ import { FaFacebookF, FaInstagram, FaLinkedinIn, FaWhatsapp } from "react-icons/
 export const SocialLinks = () => (
   <div className="text-center space-y-4">
     <div className="flex justify-center space-x-6">
-      <a href="https://www.instagram.com/tltechnologiespvtltd/" className="text-gray-300 hover:text-white transition-colors duration-200">
+      <a href="https://www.instagram.com/tltechnologiespvtltd/" target="_blank" className="text-gray-300 hover:text-white transition-colors duration-200">
         <FaInstagram className="w-8 h-8" />
       </a>
       <a href="https://www.facebook.com/tltechnologiespvtltd/" target="_blank" className="text-gray-300 hover:text-white transition-colors duration-200">
