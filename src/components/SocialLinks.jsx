@@ -17,8 +17,5 @@ export const SocialLinks = () => (
         <FaWhatsapp className="w-8 h-8" />
       </a>
     </div>
-    <p className="text-gray-400 text-sm">
-      Stay connected with us on social media
-    </p>
   </div>
 );
