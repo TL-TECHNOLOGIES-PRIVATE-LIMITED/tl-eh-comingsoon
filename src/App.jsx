@@ -24,7 +24,7 @@ export default function App() {
       }}
     >
       <div className="max-w-4xl w-full mx-auto">
-        <div className="bg-gray-900 bg-opacity-80 backdrop-blur-lg rounded-2xl p-8 md:p-12 shadow-2xl">
+        <div className="bg-gray-900 bg-opacity-50 backdrop-blur-lg rounded-2xl p-8 md:p-12 shadow-2xl">
           <Header logo={logo} />
           <CountdownTimer launchDate={launchDateSeconds} />
           <DateDisplay launchDate={launchDateMs} />;
