@@ -70,7 +70,7 @@ export const SocialLinks = () => (
         <FaGoogle className="w-8 h-8 sm:w-10 sm:h-10" />
       </a>
       <a
-        href="https://twitter.com"
+        href="https://x.com/tl_technologies"
         target="_blank"
         rel="noopener noreferrer"
         className="text-gray-300 hover:text-white transition-colors duration-200"
@@ -79,7 +79,7 @@ export const SocialLinks = () => (
         <FaTwitter className="w-8 h-8 sm:w-10 sm:h-10" />
       </a>
       <a
-        href="https://pinterest.com"
+        href="https://in.pinterest.com/tltechnologiespvtltd/"
         target="_blank"
         rel="noopener noreferrer"
         className="text-gray-300 hover:text-white transition-colors duration-200"
